@@ -250,7 +250,7 @@ async def about_handler(bot, message):
             [
                 [InlineKeyboardButton("⚡ Tamil Movies ⚡", url="https://t.me/+2bjgMTXq8o5kYjNl"), InlineKeyboardButton("💸 ᴅᴏɴᴀᴛᴇ 💸", url="https://paypal.me/114912Aadil")],
                 [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ For Tech 💌", url="https://youtube.com/channel/UCOcoLecaMrqfU4m34y4hOIA")]
-                [InlineKeyboardButton("❤️ Owner ❤️", url="https://Sharathitsisme
+                
             ]
         )
     )
